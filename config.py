@@ -11,7 +11,7 @@ API_ID = os.environ.get("API_ID", "21895677")
 
 API_HASH = os.environ.get("API_HASH", "8c5255f020234293f7184ddb5c4402bf")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6870571887:AAF6iNfd9lZNdiZ6BNd33rpruby8vsiMuHo") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6886361050:AAELVevMl5-S6kpgFqBzUre6ZMdcDyyNYs4") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "teamrxs") 
 
@@ -21,7 +21,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "teamrxs")
 
 DB_NAME = os.environ.get("DB_NAME", "teamrxs")     
 
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://teamrxs:shanto27@cluster0.qcltlqe.mongodb.net/?retryWrites=true&w=majority")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://riyadhossainshanto5:ruTqkv6eWC4oodY8@cluster0.4vklgp6.mongodb.net/?retryWrites=true&w=majority")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
